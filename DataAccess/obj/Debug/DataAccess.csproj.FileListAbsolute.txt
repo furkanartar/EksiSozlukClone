@@ -1,0 +1,23 @@
+C:\Users\ASosyaL\Desktop\EksiSozlukClone\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ASosyaL\Desktop\EksiSozlukClone\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ASosyaL\Desktop\EksiSozlukClone\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\ASosyaL\Desktop\EksiSozlukClone\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASosyaL\Desktop\EksiSozlukClone\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ASosyaL\Desktop\EksiSozlukClone\DataAccess\obj\Debug\DataAccess.pdb
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\DataAccess\bin\Debug\DataAccess.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\DataAccess\bin\Debug\DataAccess.pdb
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\DataAccess\obj\Debug\DataAccess.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\DataAccess\obj\Debug\DataAccess.pdb
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\DataAccess\bin\Debug\Core.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\DataAccess\bin\Debug\Entities.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\DataAccess\bin\Debug\EntityFramework.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\DataAccess\bin\Debug\Core.pdb
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\DataAccess\bin\Debug\Core.dll.config
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\DataAccess\bin\Debug\Entities.pdb
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\DataAccess\bin\Debug\EntityFramework.xml
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete

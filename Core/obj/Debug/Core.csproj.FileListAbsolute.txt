@@ -1,0 +1,12 @@
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Core\obj\Debug\Core.csprojAssemblyReference.cache
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Core\bin\Debug\Core.dll.config
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Core\bin\Debug\Core.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Core\bin\Debug\Core.pdb
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Core\bin\Debug\EntityFramework.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Core\bin\Debug\EntityFramework.xml
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Core\obj\Debug\Core.csproj.CopyComplete
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Core\obj\Debug\Core.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Core\obj\Debug\Core.pdb

@@ -1,0 +1,23 @@
+C:\Users\ASosyaL\Desktop\EksiSozlukClone\Business\bin\Debug\Business.dll
+C:\Users\ASosyaL\Desktop\EksiSozlukClone\Business\bin\Debug\Business.pdb
+C:\Users\ASosyaL\Desktop\EksiSozlukClone\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\ASosyaL\Desktop\EksiSozlukClone\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\ASosyaL\Desktop\EksiSozlukClone\Business\obj\Debug\Business.dll
+C:\Users\ASosyaL\Desktop\EksiSozlukClone\Business\obj\Debug\Business.pdb
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Business\bin\Debug\Business.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Business\bin\Debug\Business.pdb
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Business\obj\Debug\Business.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Business\obj\Debug\Business.pdb
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Business\bin\Debug\Core.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Business\bin\Debug\DataAccess.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Business\bin\Debug\Entities.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Business\bin\Debug\EntityFramework.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Business\bin\Debug\Core.pdb
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Business\bin\Debug\Core.dll.config
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Business\bin\Debug\DataAccess.pdb
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Business\bin\Debug\DataAccess.dll.config
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Business\bin\Debug\Entities.pdb
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Business\bin\Debug\EntityFramework.xml
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Business\obj\Debug\Business.csproj.CopyComplete

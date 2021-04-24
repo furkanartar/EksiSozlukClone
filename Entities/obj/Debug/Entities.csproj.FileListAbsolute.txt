@@ -1,0 +1,12 @@
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Entities\bin\Debug\Entities.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Entities\bin\Debug\Entities.pdb
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Entities\bin\Debug\Core.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Entities\bin\Debug\EntityFramework.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Entities\bin\Debug\Core.pdb
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Entities\bin\Debug\Core.dll.config
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Entities\bin\Debug\EntityFramework.xml
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Entities\obj\Debug\Entities.dll
+D:\Furkan\Dosyalarım\Yazılım dosyalarım\Back-end\C#\EksiSozlukClone\Entities\obj\Debug\Entities.pdb
